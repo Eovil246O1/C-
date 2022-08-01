@@ -1,0 +1,12 @@
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.csproj.AssemblyReference.cache
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.AssemblyInfoInputs.cache
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.AssemblyInfo.cs
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.csproj.CoreCompileInputs.cache
+C:\gitrepo\Code\Chapter08\Excercise03\bin\BNB\Debug\net6.0\Excercise03.deps.json
+C:\gitrepo\Code\Chapter08\Excercise03\bin\BNB\Debug\net6.0\Excercise03.dll
+C:\gitrepo\Code\Chapter08\Excercise03\bin\BNB\Debug\net6.0\Excercise03.pdb
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.dll
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\refint\Excercise03.dll
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\Excercise03.pdb
+C:\gitrepo\Code\Chapter08\Excercise03\obj\BNB\Debug\net6.0\ref\Excercise03.dll
