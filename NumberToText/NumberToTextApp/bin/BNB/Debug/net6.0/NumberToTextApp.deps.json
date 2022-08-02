@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NumberToTextApp/1.0.0": {
+        "dependencies": {
+          "NumberToTextConverter": "1.0.0"
+        },
+        "runtime": {
+          "NumberToTextApp.dll": {}
+        }
+      },
+      "NumberToTextConverter/1.0.0": {
+        "runtime": {
+          "NumberToTextConverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberToTextApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumberToTextConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\bin\BNB\Debug\net6.0\NumerToTextConverter.deps.json
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\bin\BNB\Debug\net6.0\NumerToTextConverter.dll
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\bin\BNB\Debug\net6.0\NumerToTextConverter.pdb
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.csproj.AssemblyReference.cache
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.AssemblyInfoInputs.cache
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.AssemblyInfo.cs
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.csproj.CoreCompileInputs.cache
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.dll
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\refint\NumerToTextConverter.dll
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\NumerToTextConverter.pdb
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextConverter\obj\BNB\Debug\net6.0\ref\NumerToTextConverter.dll

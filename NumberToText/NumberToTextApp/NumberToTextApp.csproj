@@ -7,6 +7,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
- <ProjectReference Include="..\Excercise03\Excercise03.csproj" />
+ <ProjectReference Include="..\NumberToTextConverter\NumberToTextConverter.csproj" />
  </ItemGroup>
 </Project>

@@ -1,0 +1,5 @@
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextApp\obj\BNB\Debug\net6.0\NumerToTextApp.csproj.AssemblyReference.cache
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextApp\obj\BNB\Debug\net6.0\NumerToTextApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextApp\obj\BNB\Debug\net6.0\NumerToTextApp.AssemblyInfoInputs.cache
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextApp\obj\BNB\Debug\net6.0\NumerToTextApp.AssemblyInfo.cs
+C:\gitrepo\C#\Misc\NumberToText\NumberToTextApp\obj\BNB\Debug\net6.0\NumerToTextApp.csproj.CoreCompileInputs.cache
