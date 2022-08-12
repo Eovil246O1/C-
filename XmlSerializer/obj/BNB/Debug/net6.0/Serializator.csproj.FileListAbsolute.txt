@@ -1,0 +1,15 @@
+C:\gitrepo\C#\Serializator\bin\BNB\Debug\net6.0\Serializator.exe
+C:\gitrepo\C#\Serializator\bin\BNB\Debug\net6.0\Serializator.deps.json
+C:\gitrepo\C#\Serializator\bin\BNB\Debug\net6.0\Serializator.runtimeconfig.json
+C:\gitrepo\C#\Serializator\bin\BNB\Debug\net6.0\Serializator.dll
+C:\gitrepo\C#\Serializator\bin\BNB\Debug\net6.0\Serializator.pdb
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.csproj.AssemblyReference.cache
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.AssemblyInfoInputs.cache
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.AssemblyInfo.cs
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.csproj.CoreCompileInputs.cache
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.dll
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\refint\Serializator.dll
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.pdb
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\Serializator.genruntimeconfig.cache
+C:\gitrepo\C#\Serializator\obj\BNB\Debug\net6.0\ref\Serializator.dll
